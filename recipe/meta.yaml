@@ -1,6 +1,6 @@
 {% set name = "arabic_reshaper" %}
-{% set version = "2.0.15" %}
-{% set sha256 = "3f3078db2a9a1c4f994145895e9193b1c01a1186547cea303e6fa920e9a00f0a" %}
+{% set version = "2.1.0" %}
+{% set sha256 = "83d21b3a9974784f1804ef566e7ed3f287c4f3a40d9554b3c01cc5930ff66ec8" %}
 
 package:
   name: {{ name|lower }}
@@ -34,4 +34,4 @@ about:
   license: GPL-3.0
   license_family: GPL
   license_file: LICENSE
-  summary: "Reconstruct Arabic sentences to be used in applications that don't support Arabic"
+  summary: Reconstruct Arabic sentences to be used in applications that don't support Arabic
