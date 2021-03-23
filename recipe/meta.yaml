@@ -1,6 +1,6 @@
 {% set name = "arabic_reshaper" %}
-{% set version = "2.1.1" %}
-{% set sha256 = "cf318fa5d51d2d224fa49bf6bdbbb4684f6bd2c068b75cfce0e607f89ac199dc" %}
+{% set version = "2.1.3" %}
+{% set sha256 = "a236fc6e9dde2a61cc6a5ca962b522e42694e1bb2a2d86894ed7a4eba4ce1890" %}
 
 package:
   name: {{ name|lower }}
